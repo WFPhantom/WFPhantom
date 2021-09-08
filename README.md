@@ -1,6 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/veselin-plochev/)
 ![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCuls0hPazziU3kti5jK64kA?label=Youtube&style=social)
-![Twitter Badge](https://img.shields.io/twitter/follow/WFPhantom?label=Twitter&style=social)
 ![Twitch Badge](https://img.shields.io/twitch/status/WFPhantom?style=social)
 
 
