@@ -5,7 +5,7 @@
 
 👋 Hi there, I'm @WFPhantom and thank you for vising my profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=WFPhantom.WFPhantom)
 
-👨‍💻 I'm interested in learning C#, C++, Python, Java, Javascript, Kotlin and CSS!
+👨‍💻 I'm interested in learning C#, C++, Python, Java, Javascript, Kotlin, SQL and CSS!
 
 📫 Reach me at Discord: WFPhantom#5610 :)
 
