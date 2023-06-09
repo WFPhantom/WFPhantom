@@ -7,7 +7,7 @@
 
 👨‍💻 I'm interested in learning C#, Javascript, Kotlin, SQL and CSS!
 
-📫 Reach me at Discord: WFPhantom#5610 :)
+📫 Reach me at Discord: wfphantom :)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WFPhantom&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
