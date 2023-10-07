@@ -1,4 +1,4 @@
-👋 Hi there, I'm @WFPhantom ![visitors](https://visitor-badge.glitch.me/badge?page_id=WFPhantom.WFPhantom)
+👋 Hi there, I'm @WFPhantom
 
 👨‍💻 I'm interested in learning C#, Javascript, Kotlin, SQL and CSS!
 
