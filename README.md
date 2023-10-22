@@ -1,6 +1,6 @@
 👋 Hi there, I'm @WFPhantom
 
-👨‍💻 I'm interested in learning C#, TypeScript, Kotlin, SQL and CSS!
+👨‍💻 I'm interested in learning C#, TypeScript, Kotlin, Rust, SQL and CSS!
 
 📫 Reach me at Discord: wfphantom :)
 
