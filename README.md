@@ -1,6 +1,6 @@
 👋 Hello there, I'm @WFPhantom :)
 
-👨‍💻 I'm interested in learning C#, TypeScript, Kotlin, Rust, HTML, CSS and a database language!
+👨‍💻 I'm interested in learning C#, Kotlin, Rust and Web development!
 
 📫 Discord: wfphantom
 
