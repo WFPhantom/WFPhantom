@@ -6,7 +6,7 @@
   "org.matrix.msc4143.rtc_foci": [
     {
       "type": "livekit",
-      "livekit_service_url": "matrix-rtc.intransi.gent"
+      "livekit_service_url": "https://matrix-rtc.intransi.gent"
     }
   ]
 }
